@@ -1,16 +1,21 @@
-# business_card_app
+# Business Card App
 
-A new Flutter project.
+A simple Flutter business card app that displays a profile photo, phone number, and email address. Perfect for beginners learning Flutter UI design and layout.
 
-## Getting Started
+## 🛠 Features
 
-This project is a starting point for a Flutter application.
+- Flutter UI using Column, CircleAvatar, Card, and ListTile
+- Displays a photo, phone number, and email
+- Clean and responsive design
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Screenshot
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![business_card_app](https://github.com/user-attachments/assets/150871cc-d65a-496a-b138-8d20df36322e)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Getting Started
+
+To run this app:
+
+```bash
+flutter pub get
+flutter run
